@@ -82,7 +82,7 @@ Average Salary by Gender = AVERAGE('Palmoria Group emp-data'[Salary])
 Total Pay = 'Palmoria Group emp-data'[Salary] + 'Palmoria Group emp-data'[Bonus Amount]
 
 ### DATA VISUALIZATION
-After cleaning and creating New columns in the Power Query, I applied the changes and used the Report Review for the Data visualization. Several expressions and functions were created to arrive at the desired KPIs or metrics to provide a clear, actionable visual for decision-making. Some of the visuals are:
+After cleaning and creating New columns in Power Query, I applied the changes and used the Report Review for data visualization. Several expressions and functions were created to achieve the desired KPIs or metrics, providing a clear and actionable visual for informed decision-making. Some of the visuals are:
 - Gender Distribution
 - Salary Distribution
 - Gender Per Gap and Performance rating
