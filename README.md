@@ -42,13 +42,13 @@ Power BI [Download here](https://www.microsoft.com/en-us/download/details.aspx?i
 ### DATA CLEANING AND PREPARATION
 In the initial phase of the Data Cleaning and preparations, I perform the following actions;
 1. Data Loading and Inspection
-2. handling Missing Variables
-3. Data Cleaning and formating
+2. Handling Missing Variables
+3. Data Cleaning and formatting
 4. Integrated the Bonus Rules
 5. Created Salary Bands
 
 ### EXPLORATORY DATA ANALYSIS
-The objective of this analysis is to produce an interactive Power BI that answer some of the following questions: 
+The objective of this analysis is to produce an interactive Power BI that answers some of the following questions: 
 - What is the gender distribution in the organization? Distil to regions and Departments
 - What is the gender pay gap
 - Does Palmoria meet the minimum Salary requirement of 90000?
@@ -63,7 +63,7 @@ Dashboard was created to visualize the insights  and include;
   
 
 ### DATA ANALYSIS
-I used Power BI DAX to create measures such as Percentage of Female whose Performance were above or below average, Percentage Male Performance rating Below or above average, Average Salary. These measure were used in creating an interactive Dashboard.
+I used Power BI DAX to create measures such as Percentage of Females whose Performance was above or below average, Percentage Male Performance rating below or above average, Average Salary. These measures were used in creating an interactive Dashboard.
 
 %Female Above Average = Divide([No of Females Rated Above Average],[Total_Male_Female])
 
@@ -82,7 +82,7 @@ Average Salary by Gender = AVERAGE('Palmoria Group emp-data'[Salary])
 Total Pay = 'Palmoria Group emp-data'[Salary] + 'Palmoria Group emp-data'[Bonus Amount]
 
 ### DATA VISUALIZATION
-After cleaning and creating New columns in the Power Query, I applied the changes and Used the Report Review for the Data visualization. Several expressions and functions were created to arrive at the desired KPIs or metrics to provide a clear, actionable visuals for decision-making. Some of the visuals are:
+After cleaning and creating New columns in the Power Query, I applied the changes and used the Report Review for the Data visualization. Several expressions and functions were created to arrive at the desired KPIs or metrics to provide a clear, actionable visual for decision-making. Some of the visuals are:
 - Gender Distribution
 - Salary Distribution
 - Gender Per Gap and Performance rating
