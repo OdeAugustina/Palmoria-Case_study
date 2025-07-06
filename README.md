@@ -43,7 +43,7 @@ Power BI [Download here](https://www.microsoft.com/en-us/download/details.aspx?i
 In the initial phase of the Data Cleaning and preparations, I perform the following actions;
 1. Data Loading and Inspection
 2. Handling Missing Variables
-3. Data Cleaning and formatting
+3. Data Cleaning and Formatting
 4. Integrated the Bonus Rules
 5. Created Salary Bands
 
@@ -87,9 +87,23 @@ After cleaning and creating New columns in Power Query, I applied the changes an
 - Salary Distribution
 - Gender Per Gap and Performance rating
 - Salary band and Bonus Distribution
-Page2 rep.png
+
+<img width="925" alt="Page1 REport" src="https://github.com/user-attachments/assets/5e6b6302-bcdf-4058-bac8-961fcc8ad2ea" />
+
+
+
+
+<img width="923" alt="Page2 rep" src="https://github.com/user-attachments/assets/a0cbfe3f-3aea-456e-a66f-f06405c3714f" />
+
+
+
+
+<img width="916" alt="Page 3" src="https://github.com/user-attachments/assets/6292a7f9-75f4-44e2-86a8-ee30b8fbd7f9" />
+
 
 ### INSIGHTS
+- 
+
 
 ### RECOMMENDATION
 
