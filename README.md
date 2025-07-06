@@ -65,21 +65,21 @@ Dashboard was created to visualize the insights  and include;
 ### DATA ANALYSIS
 I used Power BI DAX to create measures such as Percentage of Females whose Performance was above or below average, Percentage Male Performance rating below or above average, Average Salary. These measures were used in creating an interactive Dashboard.
 
-%Female Above Average = Divide([No of Females Rated Above Average],[Total_Male_Female])
+```%Female Above Average = Divide([No of Females Rated Above Average],[Total_Male_Female])```
 
-%Female High Salary = DIVIDE([Female_HighSalary_Count],[Total_Male_Female])
+```%Female High Salary = DIVIDE([Female_HighSalary_Count],[Total_Male_Female])```
 
-%Female Low Salary = DIVIDE([Female_LowSalary_Count],[Total_Male_Female])
+```%Female Low Salary = DIVIDE([Female_LowSalary_Count],[Total_Male_Female])```
 
-%Male Above Average = Divide([No of Males Rated Above Average],[Total_Male_Female])
+```%Male Above Average = Divide([No of Males Rated Above Average],[Total_Male_Female])```
 
-%Male High Salary = DIVIDE([Male_HighSalary_Count],[Total_Male_Female])
+```%Male High Salary = DIVIDE([Male_HighSalary_Count],[Total_Male_Female])```
 
-%Male Low Salary = DIVIDE([Male_LowSalary_Count],[Total_Male_Female])
+```%Male Low Salary = DIVIDE([Male_LowSalary_Count],[Total_Male_Female])```
 
-Average Salary by Gender = AVERAGE('Palmoria Group emp-data'[Salary])
+```Average Salary by Gender = AVERAGE('Palmoria Group emp-data'[Salary])```
 
-Total Pay = 'Palmoria Group emp-data'[Salary] + 'Palmoria Group emp-data'[Bonus Amount]
+```Total Pay = 'Palmoria Group emp-data'[Salary] + 'Palmoria Group emp-data'[Bonus Amount]```
 
 ### DATA VISUALIZATION
 After cleaning and creating New columns in Power Query, I applied the changes and used the Report Review for data visualization. Several expressions and functions were created to achieve the desired KPIs or metrics, providing a clear and actionable visual for informed decision-making. Some of the visuals are:
