@@ -103,8 +103,20 @@ After cleaning and creating New columns in Power Query, I applied the changes an
 
 
 ### INSIGHTS
-- 
+- The organization's gender is nearly balanced with 49.1 % Male, 46.6% Female, and 4.3% undisclosed. However, a department like Engineering, Legal, and Operations has lower female representation.
+- Males earn more on average than females.
+- The gender gap is significant in the Human Resources and Support departments.
+- Abuja shows the widest salary distribution between males and females across the regions
+- About 654 (69%) earn less than the $90000 minimum salary benchmark which indicates a lack of compliance.
+- Palmoria paid over $2.2 million in bonuses, with Kaduna receiving the largest share
+- The total amount paid by the company exceeded $71.9 million
 
 
 ### RECOMMENDATION
+While there are some gender pay gaps within Palmoria Group, especially in departments like HR, Legal, and Support, the data shows that the situation may not be as severe as the media suggests. The disparities aren't widespread, but they do exist and deserve attention.
+
+That said, the company needs to take clear steps toward fairness. We recommend focusing on closing salary gaps in the affected departments and making sure female employees are fairly compensated, especially when they have similar roles and performance to their male colleagues.
+
+Additionally, a significant number of employees earn below the $90,000 minimum wage benchmark. Addressing this will not only help Palmoria stay compliant but also improve employee satisfaction and reputation
+
 
