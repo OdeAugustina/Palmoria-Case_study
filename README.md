@@ -1,2 +1,2 @@
 # Palmoria-Case_study
-A Power BI project investigating gender pay disparity and HR performance metric at Palmoria Group, a Nigeria based manufacturing company. 
+A Power BI project investigating gender pay disparity and HR performance metrics at Palmoria Group, a Nigerian-based manufacturing company. 
