@@ -87,7 +87,7 @@ After cleaning and creating New columns in Power Query, I applied the changes an
 - Salary Distribution
 - Gender Per Gap and Performance rating
 - Salary band and Bonus Distribution
-
+Page2 rep.png
 
 ### INSIGHTS
 
