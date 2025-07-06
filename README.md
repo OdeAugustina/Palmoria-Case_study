@@ -93,10 +93,11 @@ After cleaning and creating New columns in Power Query, I applied the changes an
 
 
 
-<img width="923" alt="Page2 rep" src="https://github.com/user-attachments/assets/a0cbfe3f-3aea-456e-a66f-f06405c3714f" />
 
 
 
+
+<img width="923" alt="Report 2" src="https://github.com/user-attachments/assets/fa927107-3ea3-4e6a-97b2-bbec00964630" />
 
 <img width="916" alt="Page 3" src="https://github.com/user-attachments/assets/6292a7f9-75f4-44e2-86a8-ee30b8fbd7f9" />
 
